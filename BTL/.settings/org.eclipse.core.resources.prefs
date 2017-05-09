@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/Web/shopping/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/org/Web/shopping/controller/AdminController.java=UTF-8
+encoding//src/main/java/org/Web/shopping/controller/MainController.java=UTF-8
+encoding//src/main/java/org/Web/shopping/dao/impl/OrderDAOImpl.java=UTF-8
+encoding//src/main/java/org/Web/shopping/util/Utils.java=UTF-8
+encoding//src/main/java/org/Web/shopping/validator/CustomerInfoValidator.java=UTF-8
+encoding//src/main/java/org/Web/shopping/validator/ProductInfoValidator.java=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/index.jsp=UTF-8
+encoding/<project>=UTF-8
